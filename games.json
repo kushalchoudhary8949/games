@@ -1,0 +1,12 @@
+[
+  {
+    "name": "rock-paper-scissor",
+    "game": "https://rock-paper-scisor-bykushal.vercel.app/",
+    "photo":"rock-paper-scissor.png" 
+},
+  {
+    "name": "tic-tac-toe",
+    "game": "https://tic-tace-toe-bykushal.vercel.app/",
+     "photo": "tic-tac toe.png"
+}
+]
