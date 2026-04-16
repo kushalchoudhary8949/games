@@ -8,5 +8,9 @@
     "name": "tic-tac-toe",
     "game": "https://tic-tace-toe-bykushal.vercel.app/",
      "photo": "tic-tac toe.png"
-}
+},
+  "name": "cricket",
+  "game" : "https://www.google.com/search?q=games&oq=games&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMgYIARAjGCcyDQgCEAAYgwEYsQMYgAQyCggDEAAYsQMYgAQyDQgEEAAYgwEYsQMYgAQyCggFEAAYsQMYgAQyCggGEAAYsQMYgAQyCggHEAAYsQMYgAQyCggIEAAYsQMYgAQyBwgJEAAYjwLSAQkyMTQ5ajBqMTWoAgiwAgHxBeP8OG9PFB0y&sourceid=chrome&ie=UTF-8",
+  "photo": "#"
+  }
 ]
